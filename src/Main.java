@@ -5,8 +5,8 @@ public class Main {
 
 
         System.out.println("pollo Worlllsld!");
+System.out.println("pollo Worlllsld!");
         System.out.println("pollo Worlllsld!");
-
         //hola
         
 
